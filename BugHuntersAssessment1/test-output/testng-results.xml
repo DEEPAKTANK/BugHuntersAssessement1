@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[login => test script execution started]]>
+    </line>
+    <line>
+      <![CDATA[Title validation Successful]]>
+    </line>
+    <line>
+      <![CDATA[Login Validation Displayed message:- Hello, deepak]]>
+    </line>
+    <line>
+      <![CDATA[Title validation Successful]]>
+    </line>
+    <line>
+      <![CDATA[LogOut Successful]]>
+    </line>
+    <line>
+      <![CDATA[ Successfullogin]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-12T11:50:33 IST" name="Default suite" finished-at="2023-06-12T11:50:56 IST" duration-ms="22915">
+    <groups>
+    </groups>
+    <test started-at="2023-06-12T11:50:33 IST" name="Default test" finished-at="2023-06-12T11:50:56 IST" duration-ms="22915">
+      <class name="Kairos.Hunters.TestCases.TestCase1">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:34 IST" name="openBrowser" finished-at="2023-06-12T11:50:38 IST" duration-ms="3976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openAmazon()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:38 IST" name="openAmazon" finished-at="2023-06-12T11:50:42 IST" duration-ms="4639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazon -->
+        <test-method is-config="true" signature="logIn()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:42 IST" name="logIn" finished-at="2023-06-12T11:50:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="login()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:42 IST" name="login" finished-at="2023-06-12T11:50:56 IST" duration-ms="13225" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login => test script execution started]]>
+            </line>
+            <line>
+              <![CDATA[Title validation Successful]]>
+            </line>
+            <line>
+              <![CDATA[Login Validation Displayed message:- Hello, deepak]]>
+            </line>
+            <line>
+              <![CDATA[Title validation Successful]]>
+            </line>
+            <line>
+              <![CDATA[LogOut Successful]]>
+            </line>
+            <line>
+              <![CDATA[ Successfullogin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:56 IST" name="logOut" finished-at="2023-06-12T11:50:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Kairos.Hunters.TestCases.TestCase1@649725e3]" started-at="2023-06-12T11:50:56 IST" name="closeBrowser" finished-at="2023-06-12T11:50:56 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Kairos.Hunters.TestCases.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
